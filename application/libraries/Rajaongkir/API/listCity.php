@@ -32,7 +32,7 @@ class listCity
             CURLOPT_POSTFIELDS => "",
             CURLOPT_HTTPHEADER => array(
                 "cache-control: no-cache",
-                "key: bec09b50ded17e874c20ca8960c0238e",
+                "key: YOUR API KEY",
                 "postman-token: 2048a7f4-d87a-20e0-823c-b6ba32200441"
   ),
         ));
