@@ -21,8 +21,8 @@ class listCity
         curl_setopt_array($curl, array(
             CURLOPT_URL => $url,
             CURLOPT_RETURNTRANSFER => true,
-            CURLOPT_PROXY => $proxy[0], // Aktifkan jika menggunakan Proxy
-            CURLOPT_PROXYPORT => $proxy[1], // Aktifkan jika menggunakan Proxy
+            //CURLOPT_PROXY => $proxy[0], // Aktifkan jika menggunakan Proxy
+            //CURLOPT_PROXYPORT => $proxy[1], // Aktifkan jika menggunakan Proxy
             CURLOPT_ENCODING => "",
             CURLOPT_MAXREDIRS => 10,
             CURLOPT_TIMEOUT => 30,
