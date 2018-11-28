@@ -4,10 +4,11 @@ https://github.com/ganindrawk/ci_rajaongkir.git
 <h3>Quickstart</h3><br/>
 Register for an API key for production <a href="https://rajaongkir.com" target="_blank">here</a> </br>
 <h3>Environment</h3>
-Please add your API Key from Rajaongkir, Edit in this file (folder Library CI ->Rajaongkir->API <br/>
-1. listProvinsi.php <br/>
-2. listCity.php <br/>
-3. listCost.php <br/>
+Please add your API Key from Rajaongkir, Edit in this file: ( <br/>
+1. listProvinsi.php folder Library CI ->Rajaongkir->API <br/>
+2. listCity.php folder Library CI ->Rajaongkir->Rajaongkir->API <br/>
+3. listCost.php folder Library CI ->Rajaongkir->Rajaongkir->API <br/>
+4. env.php folder Library CI ->Rajaongkir <br/>
 
 <h3>Test</h3> <br/>
 1. http//localhost/index.php/welcome/listprovinsi (controller) <br/>
